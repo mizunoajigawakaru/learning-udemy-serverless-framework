@@ -5,4 +5,4 @@ export async function uploadAuctionPicture(event) {
   }
 }
 
-export default handler = uploadAuctionPicture
+export const handler = uploadAuctionPicture
